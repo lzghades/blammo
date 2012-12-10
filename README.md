@@ -10,6 +10,7 @@ A node.js web services framework:
 - [**faketoe**](https://github.com/walmartlabs/faketoe) [![Build Status](https://secure.travis-ci.org/walmartlabs/faketoe.png)](http://travis-ci.org/walmartlabs/faketoe)
 - [**log**](https://github.com/walmartlabs/log) [![Build Status](https://secure.travis-ci.org/walmartlabs/log.png)](http://travis-ci.org/walmartlabs/log)
 - [**flod**](https://github.com/walmartlabs/flod) [![Build Status](https://secure.travis-ci.org/walmartlabs/flod.png)](http://travis-ci.org/walmartlabs/flod)
+- [**catbox**](https://github.com/walmartlabs/catbox) [![Build Status](https://secure.travis-ci.org/walmartlabs/catbox.png)](http://travis-ci.org/walmartlabs/catbox)
 
 Related modules:
 
