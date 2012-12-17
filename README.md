@@ -1,4 +1,4 @@
-# blammo
+![blammo Logo](https://raw.github.com/walmartlabs/blammo/master/images/blammo.png)
 
 A node.js web services framework:
 
