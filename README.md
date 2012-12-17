@@ -1,4 +1,4 @@
-![blammo Logo](https://raw.github.com/walmartlabs/blammo/master/images/blammo.png)
+<p align="center"><img src="https://raw.github.com/walmartlabs/blammo/master/images/blammo.png" /></center>
 
 A node.js web services framework:
 
