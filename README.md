@@ -2,7 +2,7 @@
 
 A node.js web services framework:
 
-- [**hapi**](https://github.com/walmartlabs/hapi) [![Build Status](https://secure.travis-ci.org/walmartlabs/hapi.png)](http://travis-ci.org/walmartlabs/hapi)
+[![lout Logo](https://raw.github.com/walmartlabs/hapi/master/images/hapi.png)](https://github.com/walmartlabs/hapi) [![Build Status](https://secure.travis-ci.org/walmartlabs/hapi.png)](http://travis-ci.org/walmartlabs/hapi)
 - [**joi**](https://github.com/walmartlabs/joi) [![Build Status](https://secure.travis-ci.org/walmartlabs/joi.png)](http://travis-ci.org/walmartlabs/joi)
 - [**hoek**](https://github.com/walmartlabs/hoek) [![Build Status](https://secure.travis-ci.org/walmartlabs/hoek.png)](http://travis-ci.org/walmartlabs/hoek)
 - [**lout**](https://github.com/walmartlabs/lout) [![Build Status](https://secure.travis-ci.org/walmartlabs/lout.png)](http://travis-ci.org/walmartlabs/lout)
