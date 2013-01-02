@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.github.com/walmartlabs/blammo/master/images/blammo.png" /></center>
 
 
-###<a href="https://github.com/walmartlabs/hapi"><img src="https://raw.github.com/walmartlabs/hapi/master/images/hapi.png" height="125" alt="Hapi Logo" /></a>
+###<a href="https://github.com/walmartlabs/hapi"><img src="https://raw.github.com/walmartlabs/hapi/master/images/hapi.png" height="155" alt="Hapi Logo" /></a>
 A rich framework for building restful API services. **hapi** is a configuration-centric framework in which
 authentication requirements, input validation, data caching and pre-fetching, developer documentation,
 and other essential facilities are provided out-of-the-box and enabled using simple JSON configuration
@@ -24,7 +24,7 @@ Current version: **0.0.6**
 
 ***
 
-###[![hoek Logo](https://raw.github.com/walmartlabs/hoek/master/images/hoek.png)](https://github.com/walmartlabs/hoek) 
+###<a href="https://github.com/walmartlabs/hoek"><img src="https://raw.github.com/walmartlabs/hoek/master/images/hoek.png" height="85" alt="Hoek Logo" /></a>
 [![Build Status](https://secure.travis-ci.org/walmartlabs/hoek.png)](http://travis-ci.org/walmartlabs/hoek)
 
 ***
