@@ -51,7 +51,7 @@ Current version: **0.0.3**
 
 ***
 
-###<a href="https://github.com/walmartlabs/faketoe"><img src="https://raw.github.com/walmartlabs/faketoe/master/images/faketoe.png" height="75" alt="Faketoe Logo" /></a>
+###<a href="https://github.com/walmartlabs/faketoe"><img src="https://raw.github.com/walmartlabs/faketoe/master/images/faketoe.png" height="70" alt="Faketoe Logo" /></a>
 XML to JSON converter
 
 Current version: **0.0.1**
@@ -69,19 +69,27 @@ Current version: **0.0.1**
 
 ***
 
-###[![flod Logo](https://raw.github.com/walmartlabs/flod/master/images/flod.png)](https://github.com/walmartlabs/flod) 
+###<a href="https://github.com/walmartlabs/flod"><img src="https://raw.github.com/walmartlabs/flod/master/images/flod.png" height="125" alt="Flod Logo" /></a>
+A systematic toolchain for benchmarking and comparing Node.js web server frameworks. flod enables developers to compare the performance of different versions of their frameworks and to other frameworks.
+
+Current version: **0.0.4**
+
 [![Build Status](https://secure.travis-ci.org/walmartlabs/flod.png)](http://travis-ci.org/walmartlabs/flod)
 
 ***
 
-###[![catbox Logo](https://raw.github.com/walmartlabs/catbox/master/images/catbox.png)](https://github.com/walmartlabs/catbox) 
+###<a href="https://github.com/walmartlabs/catbox"><img src="https://raw.github.com/walmartlabs/catbox/master/images/catbox.png" height="155" alt="Catbox Logo" /></a>
+Multi-strategy object caching service
+
+Current version: **0.0.3**
+
 [![Build Status](https://secure.travis-ci.org/walmartlabs/catbox.png)](http://travis-ci.org/walmartlabs/catbox)
 
 ***
 
-Related modules:
+###Related modules:
 
-- [**shot**](https://github.com/hueniverse/shot) [![Build Status](https://secure.travis-ci.org/hueniverse/shot.png)](http://travis-ci.org/hueniverse/shot)
-- [**hawk**](https://github.com/hueniverse/hawk) [![Build Status](https://secure.travis-ci.org/hueniverse/hawk.png)](http://travis-ci.org/hueniverse/hawk)
-- [**oz**](https://github.com/hueniverse/oz) [![Build Status](https://secure.travis-ci.org/hueniverse/oz.png)](http://travis-ci.org/hueniverse/oz)
+- [**shot**](https://github.com/hueniverse/shot)   [![Build Status](https://secure.travis-ci.org/hueniverse/shot.png)](http://travis-ci.org/hueniverse/shot)
+- [**hawk**](https://github.com/hueniverse/hawk)   [![Build Status](https://secure.travis-ci.org/hueniverse/hawk.png)](http://travis-ci.org/hueniverse/hawk)
+- [**oz**](https://github.com/hueniverse/oz)   [![Build Status](https://secure.travis-ci.org/hueniverse/oz.png)](http://travis-ci.org/hueniverse/oz)
 
