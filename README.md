@@ -25,26 +25,46 @@ Current version: **0.0.6**
 ***
 
 ###<a href="https://github.com/walmartlabs/hoek"><img src="https://raw.github.com/walmartlabs/hoek/master/images/hoek.png" height="85" alt="Hoek Logo" /></a>
+General purpose node utilities
+
+Current version: **0.0.21**
+
 [![Build Status](https://secure.travis-ci.org/walmartlabs/hoek.png)](http://travis-ci.org/walmartlabs/hoek)
 
 ***
 
-###[![lout Logo](https://raw.github.com/walmartlabs/lout/master/images/lout.png)](https://github.com/walmartlabs/lout) 
+###<a href="https://github.com/walmartlabs/lout"><img src="https://raw.github.com/walmartlabs/lout/master/images/lout.png" height="125" alt="Lout Logo" /></a>
+Lout is a documentation generator for hapi servers, providing a human-readable guide for every endpoint using the route configuration. The module allows full customization of the output.
+
+Current version: **0.0.2**
+
 [![Build Status](https://secure.travis-ci.org/walmartlabs/lout.png)](http://travis-ci.org/walmartlabs/lout)
 
 ***
 
-###[![helmet Logo](https://raw.github.com/walmartlabs/helmet/master/images/helmet.png)](https://github.com/walmartlabs/helmet) 
+###<a href="https://github.com/walmartlabs/helmet"><img src="https://raw.github.com/walmartlabs/helmet/master/images/helmet.png" height="155" alt="Helmet Logo" /></a>
+Interactive debug console for [**hapi**](https://github.com/walmartlabs/hapi)
+
+Current version: **0.0.3**
+
 [![Build Status](https://secure.travis-ci.org/walmartlabs/helmet.png)](http://travis-ci.org/walmartlabs/helmet)
 
 ***
 
-###[![faketoe Logo](https://raw.github.com/walmartlabs/faketoe/master/images/faketoe.png)](https://github.com/walmartlabs/faketoe) 
+###<a href="https://github.com/walmartlabs/faketoe"><img src="https://raw.github.com/walmartlabs/faketoe/master/images/faketoe.png" height="75" alt="Faketoe Logo" /></a>
+XML to JSON converter
+
+Current version: **0.0.1**
+
 [![Build Status](https://secure.travis-ci.org/walmartlabs/faketoe.png)](http://travis-ci.org/walmartlabs/faketoe)
 
 ***
 
-###[![log Logo](https://raw.github.com/walmartlabs/log/master/images/log.png)](https://github.com/walmartlabs/log) 
+###<a href="https://github.com/walmartlabs/log"><img src="https://raw.github.com/walmartlabs/log/master/images/log.png" height="145" alt="Log Logo" /></a>
+[**hapi**](/walamrtlabs/hapi) process monitoring
+
+Current version: **0.0.1**
+
 [![Build Status](https://secure.travis-ci.org/walmartlabs/log.png)](http://travis-ci.org/walmartlabs/log)
 
 ***
