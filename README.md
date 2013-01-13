@@ -92,4 +92,6 @@ Current version: **0.0.3**
 - [**shot**](https://github.com/hueniverse/shot)   [![Build Status](https://secure.travis-ci.org/hueniverse/shot.png)](http://travis-ci.org/hueniverse/shot)
 - [**hawk**](https://github.com/hueniverse/hawk)   [![Build Status](https://secure.travis-ci.org/hueniverse/hawk.png)](http://travis-ci.org/hueniverse/hawk)
 - [**oz**](https://github.com/hueniverse/oz)   [![Build Status](https://secure.travis-ci.org/hueniverse/oz.png)](http://travis-ci.org/hueniverse/oz)
+- [**boom**](https://github.com/hueniverse/boom)   [![Build Status](https://secure.travis-ci.org/hueniverse/boom.png)](http://travis-ci.org/hueniverse/boom)
+- [**iron**](https://github.com/hueniverse/iron)   [![Build Status](https://secure.travis-ci.org/hueniverse/iron.png)](http://travis-ci.org/hueniverse/iron)
 
